@@ -1,0 +1,8 @@
+com/hotelbooking/Application.class
+com/hotelbooking/model/Booking.class
+com/hotelbooking/repository/GuestRepository.class
+com/hotelbooking/repository/RoomRepository.class
+com/hotelbooking/repository/BookingRepository.class
+com/hotelbooking/model/Room.class
+com/hotelbooking/controller/RoomController.class
+com/hotelbooking/model/Guest.class
